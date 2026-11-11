@@ -1,0 +1,12 @@
+node_modules/
+*.tgz
+*.log
+.DS_Store
+_*.mjs
+magpie-plugin-contract-full.txt
+
+# 会话棋谱（本地参考，体积大，不进包也不进仓库）
+kifu/
+
+# 临时实测脚本（含真实凭据的探针，绝不进仓库）
+tmp/
